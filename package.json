@@ -1,7 +1,7 @@
 {
   "name": "speedster-test",
   "version": "1.0.0",
-  "description": "This speedtest shows you according to your internet speed which speedster from the flash you are",
+  "description": "This speedtest shows your download, upload and ping",
   "main": "index.js",
   "keywords": [],
   "author": "Jahid Uddin",

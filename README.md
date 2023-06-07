@@ -1,2 +1,2 @@
-# speedster-test
-This speedtest shows you according to your internet speed which speedster from the flash you are
+# speedster
+This speedtest shows your download, upload and ping

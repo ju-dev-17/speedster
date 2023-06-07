@@ -36,7 +36,7 @@ async function testUpload() {
   })
     .then((_res) => {
       const endTime = new Date().getTime();
-      return (endTime - startTime).toFixed(2);
+      return (4000 / (endTime - startTime)).toFixed(2);
     })
     .catch((error) => {
       console.error("Error:", error);
